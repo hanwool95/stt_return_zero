@@ -1,3 +1,5 @@
 .gitmessage.txt
 config.py
 voice_files
+output.csv
+updated_output.csv
